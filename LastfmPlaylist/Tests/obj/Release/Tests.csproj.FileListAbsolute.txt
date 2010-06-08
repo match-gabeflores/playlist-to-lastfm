@@ -1,0 +1,17 @@
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Scripts\ZeroClipboard.js
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\ZeroClipboard.swf
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Tests.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Tests.pdb
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\LastfmPlaylist.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Moq.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\nunit.framework.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Google.GData.YouTube.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Google.GData.Client.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Google.GData.Extensions.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\LastfmPlaylist.pdb
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Moq.pdb
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\Moq.xml
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\bin\Release\nunit.framework.xml
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\obj\Release\Tests.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\LastfmPlaylist\Tests\obj\Release\Tests.pdb

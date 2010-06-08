@@ -1,0 +1,364 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/f:Global.asax" caret="103" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Views/d:Account/f:ChangePassword.aspx" caret="115" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Views/d:Account/f:LogOn.aspx" caret="115" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Views/d:Account/f:Register.aspx" caret="115" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Views/f:Web.config" caret="146" fromTop="4" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Content/f:Site.css" caret="2506" fromTop="14" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Views/d:Home/f:About.aspx" caret="0" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Views/d:Home/f:Submit.aspx" caret="0" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Scripts/f:jquery.blockUI.js" caret="0" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Views/d:Shared/f:Site.Master" caret="412" fromTop="6" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Helpers/f:FileUploadJsonResult.cs" caret="1258" fromTop="27" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Controllers/f:UploadController.cs" caret="1742" fromTop="30" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="4824730A-9B27-45B0-8203-392716DFD67A/f:ContextMocks.cs" caret="2204" fromTop="32" />
+      <File id="4824730A-9B27-45B0-8203-392716DFD67A/f:Class1.cs" caret="1279" fromTop="24" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Views/d:Home/f:Index.aspx" caret="2335" fromTop="18" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Controllers/f:HomeController.cs" caret="1493" fromTop="33" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/f:code.txt" caret="2954" fromTop="39" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/f:Web.config" caret="11476" fromTop="14" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="3595" fromTop="82" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5198" fromTop="23" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5523" fromTop="29" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5174" fromTop="17" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="3314" fromTop="24" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="7139" fromTop="34" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="6806" fromTop="40" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5169" fromTop="43" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="912" fromTop="14" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="4517" fromTop="23" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="4674" fromTop="27" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="4051" fromTop="12" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5485" fromTop="42" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="6008" fromTop="12" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="6020" fromTop="12" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="6806" fromTop="30" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="7110" fromTop="41" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5169" fromTop="34" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="6458" fromTop="34" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="2108" fromTop="6" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5724" fromTop="19" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5879" fromTop="29" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="3326" fromTop="25" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/f:Web.config" caret="11476" fromTop="30" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="3312" fromTop="25" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="7151" fromTop="0" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="3259" fromTop="18" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="4944" fromTop="12" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="5216" fromTop="18" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="902" fromTop="18" />
+      <File id="3F7CC96E-8C8E-49D7-8C96-B92D8B42CA2F/d:Models/f:Playlist.cs" caret="2593" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="System" priority="4" />
+      <Item value="string" priority="21" />
+      <Item value="LastfmPlaylist" priority="4" />
+      <Item value="Controllers" priority="0" />
+      <Item value="return" priority="12" />
+      <Item value="RedirectToAction`0" priority="1" />
+      <Item value="Redirect`0" priority="0" />
+      <Item value="RedirectResult`0" priority="2" />
+      <Item value="TempData" priority="11" />
+      <Item value="s" priority="6" />
+      <Item value="RedirectToRoute`0" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="new" priority="22" />
+      <Item value="prop" priority="0" />
+      <Item value="using" priority="16" />
+      <Item value="Models" priority="0" />
+      <Item value="Playlist`0" priority="5" />
+      <Item value="Playlist" priority="0" />
+      <Item value="p" priority="1" />
+      <Item value="bool" priority="5" />
+      <Item value="Text" priority="0" />
+      <Item value="StringBuilder" priority="2" />
+      <Item value="stringBuilder" priority="11" />
+      <Item value="IO" priority="1" />
+      <Item value="StringReader`0" priority="0" />
+      <Item value="StringReader" priority="0" />
+      <Item value="contents" priority="0" />
+      <Item value="stringReader" priority="7" />
+      <Item value="false" priority="2" />
+      <Item value="line" priority="0" />
+      <Item value="static" priority="4" />
+      <Item value="const" priority="1" />
+      <Item value="FIELDS" priority="0" />
+      <Item value="StringWriter`0" priority="1" />
+      <Item value="var" priority="7" />
+      <Item value="StringBuilder`0" priority="1" />
+      <Item value="outputLine" priority="8" />
+      <Item value="Output" priority="2" />
+      <Item value="output" priority="10" />
+      <Item value="uploadedFile" priority="1" />
+      <Item value="Request" priority="6" />
+      <Item value="playlistFile" priority="5" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="sr" priority="0" />
+      <Item value="HtmlHelper`0" priority="1" />
+      <Item value="Html" priority="2" />
+      <Item value="null" priority="8" />
+      <Item value="Model" priority="2" />
+      <Item value="FormCollection`0" priority="2" />
+      <Item value="Helpers" priority="0" />
+      <Item value="RedirectResult" priority="0" />
+      <Item value="Url" priority="0" />
+      <Item value="ActionResult`0" priority="1" />
+      <Item value="ContentResult`0" priority="1" />
+      <Item value="Content`0" priority="3" />
+      <Item value="form" priority="0" />
+      <Item value="FormCollection" priority="0" />
+      <Item value="file" priority="4" />
+      <Item value="as" priority="1" />
+      <Item value="EmptyResult`0" priority="1" />
+      <Item value="FileUploadJsonResult`0" priority="0" />
+      <Item value="OutputCache" priority="0" />
+      <Item value="OutputCacheAttribute`0" priority="0" />
+      <Item value="CacheProfile" priority="1" />
+      <Item value="Duration" priority="1" />
+      <Item value="Location" priority="0" />
+      <Item value="Order" priority="0" />
+      <Item value="NUnit" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="void" priority="0" />
+      <Item value="Assert`0" priority="3" />
+      <Item value="HomeController`0" priority="0" />
+      <Item value="HomeController" priority="0" />
+      <Item value="VaryByParam" priority="0" />
+      <Item value="Moq" priority="2" />
+      <Item value="Mock`0" priority="3" />
+      <Item value="Web" priority="0" />
+      <Item value="HttpPostedFileBase`0" priority="2" />
+      <Item value="homeController" priority="2" />
+      <Item value="i" priority="1" />
+      <Item value="ControllerContext`0" priority="0" />
+      <Item value="context" priority="3" />
+      <Item value="ViewResult`0" priority="1" />
+      <Item value="actual" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="ControllerContext" priority="3" />
+      <Item value="ContextMocks`0" priority="2" />
+      <Item value="Tests" priority="1" />
+      <Item value="_contextMocks" priority="1" />
+      <Item value="HttpPostedFile" priority="1" />
+      <Item value="Mock&lt;HttpPostedFileBase&gt;" priority="0" />
+      <Item value="HttpCacheability`0" priority="0" />
+      <Item value="HttpContext`0" priority="0" />
+      <Item value="HttpContext" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="Controller`0" priority="0" />
+      <Item value="Mock&lt;ControllerContext&gt;" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="Response" priority="0" />
+      <Item value="youtubelink" priority="1" />
+      <Item value="true" priority="1" />
+      <Item value="wikipedia" priority="1" />
+      <Item value="myspace" priority="1" />
+      <Item value="fileUpload" priority="1" />
+      <Item value="youtube" priority="0" />
+      <Item value="songInfoList" priority="1" />
+      <Item value="ArrayList" priority="0" />
+      <Item value="Google" priority="4" />
+      <Item value="GData" priority="3" />
+      <Item value="YouTube" priority="1" />
+      <Item value="Extensions" priority="1" />
+      <Item value="Client" priority="0" />
+      <Item value="MediaRss" priority="0" />
+      <Item value="ArrayList`0" priority="0" />
+      <Item value="GetSongLine`0" priority="0" />
+      <Item value="if" priority="3" />
+      <Item value="YouTubeLink" priority="3" />
+      <Item value="WikipediaLink" priority="1" />
+      <Item value="MySpaceLink" priority="1" />
+      <Item value="yt" priority="0" />
+      <Item value="YouTubeQuery`0" priority="0" />
+      <Item value="youTubeQuery" priority="4" />
+      <Item value="YouTubeQuery" priority="0" />
+      <Item value="IList`0" priority="1" />
+      <Item value="tagList" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="TagList" priority="9" />
+      <Item value="YouTubeRequestSettings" priority="3" />
+      <Item value="Service`0" priority="0" />
+      <Item value="Service" priority="0" />
+      <Item value="service" priority="0" />
+      <Item value="webRequest" priority="0" />
+      <Item value="WebRequest`0" priority="1" />
+      <Item value="wr" priority="0" />
+      <Item value="query" priority="0" />
+      <Item value="Feed" priority="1" />
+      <Item value="YouTubeService`0" priority="0" />
+      <Item value="YouTubeService" priority="0" />
+      <Item value="YouTubeRequest`0" priority="0" />
+      <Item value="youTubeRequest" priority="0" />
+      <Item value="YouTubeRequest" priority="0" />
+      <Item value="videoFeed" priority="7" />
+      <Item value="for" priority="0" />
+      <Item value="Video`0" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="ArtistIndex" priority="3" />
+      <Item value="TitleIndex" priority="1" />
+      <Item value="YouTubeIndex" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="vid" priority="0" />
+      <Item value="videoUrl" priority="1" />
+      <Item value="arrayList" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="HttpContinueDelegate`0" priority="0" />
+      <Item value="MySpaceIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Encode`0" priority="0" />
+      <Item value="TextArea`0" priority="2" />
+      <Item value="CheckBoxFor`1" priority="0" />
+      <Item value="Label`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LastfmPlaylist.Models.Playlist">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StringReader">
+      <Item value="ReadLine`0" priority="3" />
+      <Item value="Peek`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="3" />
+      <Item value="AppendLine`0" priority="0" />
+      <Item value="Append`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpPostedFileBase">
+      <Item value="FileName" priority="2" />
+      <Item value="ContentType" priority="1" />
+      <Item value="ContentLength" priority="0" />
+      <Item value="InputStream" priority="3" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="SaveAs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="Files" priority="6" />
+      <Item value="Form" priority="1" />
+      <Item value="Params" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.FormCollection">
+      <Item value="KeysCollection`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="JetBrains.ReSharper.Feature.Services.Asp.CodeCompletion.AspBasicCodeCompletionContext">
+      <Item value="ctx" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Action`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="Fail`0" priority="0" />
+      <Item value="Pass`0" priority="0" />
+      <Item value="IsInstanceOf`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Setup`1" priority="4" />
+      <Item value="Object" priority="2" />
+      <Item value="Verify`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`16" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LastfmPlaylist.Controllers.HomeController">
+      <Item value="Upload`0" priority="0" />
+      <Item value="ControllerContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ControllerContext">
+      <Item value="HttpContext" priority="3" />
+      <Item value="Controller" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="Request" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpFileCollectionBase">
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tests.ContextMocks">
+      <Item value="HttpContext" priority="0" />
+      <Item value="Request" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ControllerBase">
+      <Item value="ControllerContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlInputCheckBox">
+      <Item value="name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponseBase">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LastfmPlaylist.Models.Playlist">
+      <Item value="MySpaceLink" priority="0" />
+      <Item value="YouTubeLink" priority="0" />
+      <Item value="WikipediaLink" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.GData.YouTube.YouTubeQuery">
+      <Item value="Query" priority="1" />
+      <Item value="OrderBy" priority="0" />
+      <Item value="NumberToRetrieve" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.GData.Client.Service">
+      <Item value="Query`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="RequestUri" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.GData.Client.Feed`1">
+      <Item value="Entries" priority="3" />
+      <Item value="TotalResults" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="GetEnumerator`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerator`1">
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.YouTube.Video">
+      <Item value="VideoId" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
